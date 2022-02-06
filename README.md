@@ -11,6 +11,13 @@
 >>> гоцзя юй вэй сяньдай ханьюй пинхэн юйляоку
 ```
 
+Основывается на [g2pc] (https://github.com/Kyubyong/g2pC), который предусматривает снятие омографии
+  
+Буду править и оптимизировать, а пока это -- просто рабочий код.
+
+ 
+# palladizator
+  
 At this point it just works. Later on i'm planning on revising the code and maybe switching to some api instead of using g2pc on the local machine.
 
 This programm is supposed to transcribe Chinese into Russian and is powered by G2pC library.
