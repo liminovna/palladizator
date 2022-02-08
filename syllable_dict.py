@@ -1,3 +1,4 @@
+print('syllable_dict.py imported')
 a = {'a': 'а',
 'ai': 'ай',
 'an': 'ань',
