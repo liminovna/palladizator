@@ -1,7 +1,6 @@
 from g2pc import G2pC
 from argparse import ArgumentParser
 import re
-from g2pc.g2pc import tone_change
 import syllable_dict
 
 
