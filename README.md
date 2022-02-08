@@ -1,5 +1,5 @@
 # palladizator
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liminovna/palladizator/blob/colab_version/palladizator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liminovna/palladizator/blob/colab_version/palladizator_colab.ipynb)
 
 Эта программа транскрибирует китайский язык на русский.
 
