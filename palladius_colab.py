@@ -3,6 +3,7 @@ import re
 from g2pc.g2pc import tone_change
 import syllable_dict
 
+g2p = G2pC()
 
 class zh_phrase:
 
