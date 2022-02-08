@@ -1,9 +1,7 @@
 from g2pc import G2pC
 import re
-from g2pc.g2pc import tone_change
+# from g2pc.g2pc import tone_change
 import syllable_dict
-
-g2p = G2pC()
 
 class zh_phrase:
 
@@ -17,6 +15,7 @@ class zh_phrase:
         self.pinyin_list = self.get_pinyin_list()
 
     def get_pinyin_list(self) -> list:
+        g2p = G2pC()
         return [i[2] for i in g2p(self.phrase.strip())]
 
     def remove_tones(self) -> list:
