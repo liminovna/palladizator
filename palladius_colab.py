@@ -1,9 +1,13 @@
-from g2pc import G2pC
-import re
-# from g2pc.g2pc import tone_change
-import syllable_dict
+# from g2pc import G2pC
+# import re
+# # from g2pc.g2pc import tone_change
+# import syllable_dict
 
 class zh_phrase:
+    
+    from g2pc import G2pC
+    import re
+    import syllable_dict
 
     is_zh_word = re.compile('([a-z]+)([0-9]+)')
 
