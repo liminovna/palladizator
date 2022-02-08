@@ -9,8 +9,8 @@
 
  ![Alt text](https://sun9-49.userapi.com/impg/d16x_vPjuQ8Pe6JDOgRlhWLzHvd8DpzMc50Hcg/ogGBt1yBW6M.jpg?size=1257x258&quality=96&sign=a04d449a7e872c1b5be12d78bd254adc&type=album)
 
-Можно поставить флажок -c -- тогда все слова будут писаться с большой буквы.
+Можно выбрать опцию capitalize -- тогда все слова будут начинаться с большой буквы.
 
-![Alt text](https://sun9-74.userapi.com/impg/2YFWGccUzp7jhyutFhnlfa5BYQT7vBKxHbDIig/VmEu4YeHIXE.jpg?size=775x260&quality=96&sign=9a86bd0f6893f885199256fcfa073eac&type=album)
+![Alt text](https://sun9-52.userapi.com/impg/QXxO6YS9384CsTlqkoYlzdzEn-JIosbKSBln9A/CkdL_3ULrnY.jpg?size=1187x258&quality=96&sign=6323dea2af47c95ea736323bd8aefba0&type=album)
 
 Основывается на [g2pc](https://github.com/Kyubyong/g2pC), который предусматривает снятие омографии
