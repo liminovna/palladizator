@@ -1,2 +1,3 @@
 pkuseg
 sklearn_crfsuite
+g2pc
